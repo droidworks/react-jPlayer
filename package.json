@@ -2,13 +2,13 @@
   "name": "react-jplayer",
   "version": "7.1.3",
   "description": "Html5 audio and video player library for React",
-  "author": "Martin Dawson <u1356770@gmail.com>",
+  "author": "linges @ 42.my",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jplayer/react-jPlayer.git"
+    "url": "https://github.com/droidworks/react-jPlayer"
   },
   "bugs": {
-    "url": "https://github.com/jplayer/react-jPlayer/issues"
+    "url": "https://github.com/droidworks/react-jPlayer/issues"
   },
   "keywords": [
     "audio",
@@ -24,7 +24,7 @@
     "html5-video",
     "media"
   ],
-  "homepage": "https://github.com/jplayer/react-jPlayer",
+  "homepage": "https://github.com/droidworks/react-jPlayer",
   "license": "MIT",
   "main": "./lib/index.js",
   "files": [
